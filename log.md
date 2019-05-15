@@ -16,3 +16,12 @@
 **Thoughts:** I now how to add items manually to my database, but I should learn using django shell to be able to do it faster.
 
 **Link to work:** [Pizza ordering app](https://github.com/grain111/Learn_CS/tree/project3/Web%20Development/project3)
+
+
+### Day 2: May 15, 2019
+
+**Today's Progress:** I have added added ability to create new user accounts, login with login and password and logout.
+
+**Thoughts:** Reading documentation is not easy.
+
+**Link to work:** [Pizza ordering app](https://github.com/grain111/Learn_CS/tree/project3/Web%20Development/project3)
