@@ -20,8 +20,18 @@
 
 ### Day 2: May 15, 2019
 
-**Today's Progress:** I have added added ability to create new user accounts, login with login and password and logout.
+**Today's Progress:** I have added ability to create new user accounts, login with login and password and logout.
 
 **Thoughts:** Reading documentation is not easy.
 
 **Link to work:** [Pizza ordering app](https://github.com/grain111/Learn_CS/tree/project3/Web%20Development/project3)
+
+
+### Day 3: May 16, 2019
+
+**Today's Progress:** I have added a menu view and learnd about custom filters in django.
+
+**Thoughts:** I realy don't like django's templating language.
+
+**Link to work:** [Pizza ordering app](https://github.com/grain111/Learn_CS/tree/project3/Web%20Development/project3)
+
