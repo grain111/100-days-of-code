@@ -35,3 +35,12 @@
 
 **Link to work:** [Pizza ordering app](https://github.com/grain111/Learn_CS/tree/project3/Web%20Development/project3)
 
+
+### Day 4: May 18, 2019
+
+**Today's Progress:** I have refactored my menu template using mor of custom filteres and used shell to input some items to the database.
+
+**Thoughts:** Using custom filteres makes django's templating language much more powerfull.
+
+**Link to work:** [Pizza ordering app](https://github.com/grain111/Learn_CS/tree/project3/Web%20Development/project3)
+
