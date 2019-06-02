@@ -53,3 +53,12 @@
 
 **Link to work:** [Pizza ordering app](https://github.com/grain111/Learn_CS/tree/project3/Web%20Development/project3)
 
+
+### Day 6: June 2, 2019
+
+**Today's Progress:** I have created a landing page for ordering, defined models for orders and wrote model methods to get a value of any given order.
+
+**Thoughts:** Model methods can be very useful.
+
+**Link to work:** [Pizza ordering app](https://github.com/grain111/Learn_CS/tree/project3/Web%20Development/project3)
+
