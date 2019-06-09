@@ -63,7 +63,16 @@
 **Link to work:** [Pizza ordering app](https://github.com/grain111/Learn_CS/tree/project3/Web%20Development/project3)
 
 
-### Day 7: June 9, 2019
+### Day 7: June 3, 2019
+
+**Today's Progress:** Today I have completed ability to add orders to database. 
+
+**Thoughts:** -
+
+**Link to work:** [Pizza ordering app](https://github.com/grain111/Learn_CS/tree/project3/Web%20Development/project3)
+
+
+### Day 8: June 9, 2019
 
 **Today's Progress:** Today I've written a page displaying all orders for a logged in user and confirmation page. I have completed basic funcionality of my page.
 
